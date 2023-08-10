@@ -1,4 +1,4 @@
-# TaxoGPT：generated taxonomy by GPT
+# TaxoGPT：A Method for Taxonomy Construction by GPT
 
 自动构建taxonomy在教育，电商等许多实际场景中有着广泛的应用。传统的taxonomy构建方法主要解决将产生的新概念加入现有的taxonomy中，并且目前大多数常用的taxonomy需要大量专家介入。我们提出TaxoGPT方法通过GPT3.5等语言模型强大的文本能力实现自动从零构建taxonomy的方法，构建的taxonomy涵盖范围更加广泛，层次更深，包含的概念更加丰富详细。
 
@@ -131,5 +131,14 @@ Level4: [一元一次不等式，二元一次不等式组，统计调查，问�
 
 完善大模型补全taxonomy步骤
 ## 引用
-
-
+如果你使用我们的方法或数据，请引用本GitHub Repo
+```
+@misc{TaxoGPT,
+  author = {Zihan, Li and Zhouhong, Gu and Hongwei, Feng and Weiguo, Zheng},
+  title = {TaxoGPT: A Method for Taxonomy Construction by GPT},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/lizihanhhh/TaxoGPT}},
+}
+```
